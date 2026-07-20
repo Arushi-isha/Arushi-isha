@@ -11,13 +11,15 @@
 * 🤝 Open to collaborating on AI/ML, Computer Vision, Open Source, and Full-Stack project
 * 🍀 Fun Fact: Engineering student but happy (Trying to be funny)
 <br>
- <p align="center">
-  <a href="https://www.vecteezy.com/video/71755043-girl-studies-late-at-night-with-headphones-and-a-laptop-at-her-desk">
-    <img src="[assets/studying-girl.png](https://github.com/Arushi-isha/Assets/blob/main/vecteezy_girl-studies-late-at-night-with-headphones-and-a-laptop-at_71755043.mp4)" width="700" alt="Girl studying"/>
-  </a>
+<p align="center">
+  <img src="Assets/blob/main/Screenshot%202026-07-20%20143655.png"/>
 </p>
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arushi_isha/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushi-mallick-ba8a19283/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arushimallickisha@gmail.com) 
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushi-mallick-ba8a19283/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arushi-isha)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arushi_isha/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arushimallickisha@gmail.com)
 
 #💻 Tech Stack
 
