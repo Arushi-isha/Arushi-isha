@@ -1,4 +1,5 @@
 ## Hi there this is Arushi👋
+
 * 🦋 I love developing and researching
 * 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills
 * 📚 Curretly doing a course on neural networks and deep learning
