@@ -13,7 +13,7 @@
 <br>
  <p align="center">
   <a href="https://www.vecteezy.com/video/71755043-girl-studies-late-at-night-with-headphones-and-a-laptop-at-her-desk">
-    <img src="assets/studying-girl.png" width="700" alt="Girl studying"/>
+    <img src="[assets/studying-girl.png](https://github.com/Arushi-isha/Assets/blob/main/vecteezy_girl-studies-late-at-night-with-headphones-and-a-laptop-at_71755043.mp4)" width="700" alt="Girl studying"/>
   </a>
 </p>
 ## 🌐 Socials:
