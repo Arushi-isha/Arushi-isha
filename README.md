@@ -12,7 +12,7 @@
 * 🍀 Fun Fact: Engineering student but happy (Trying to be funny)
 <br>
 <p align="center">
-  <img src="Assets/blob/main/Screenshot%202026-07-20%20143655.png"/>
+  <img src="[Assets/blob/main/Screenshot%202026-07-20%20143655.png](https://github.com/Arushi-isha/Assets/blob/main/Screenshot%202026-07-20%20143655.png)"/>
 </p>
 
 ## 🌐 Connect with Me
