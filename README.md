@@ -5,7 +5,7 @@
 * 📚 Curretly doing a course on neural networks and deep learning
 * 🔭 Working on Deep Learning and Computer Vision projects.
 * ✨ My goal is to apply technology to create impactful solutions that address real-world challenges and improve people's lives.
-* 🦾 Developing a Hand Gesture Classification-based Prosthetic Hand project using AI and Computer Vision to enable intuitive and accessible human-computer interaction.
+* 🦾 Developing a Hand Gesture Classification-based Prosthetic Hand project using AI and neural networks to enable intuitive and accessible human-computer interaction.
 * 🛠️ I'm also looking for collaborators interested in enhancing and expanding my AI-powered Prosthetic Hand project with new features, better gesture recognition, embedded integration, and real-world applications.
 * 📬 Reach me out on [Linkedin](https://www.linkedin.com/in/arushi-mallick-ba8a19283/) 
 * 🤝 Open to collaborating on AI/ML, Computer Vision, Open Source, and Full-Stack project
